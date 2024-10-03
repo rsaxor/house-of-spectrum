@@ -19,7 +19,7 @@
  * Author URI:        mailto:ralph@houseofspectrum.com
  * Text Domain:       house-of-spectrum
  * License:           GPL v2
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
  */
 
 if (! defined('ABSPATH')) {
