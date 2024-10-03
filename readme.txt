@@ -14,3 +14,7 @@ Custom WordPress plugin for the House of Spectrum website.
 ** Contact details **
 ralph@spectrumdubai.com
 ralph@houseofspectrum.com
+
+== Features ==
+
+* Custom post type

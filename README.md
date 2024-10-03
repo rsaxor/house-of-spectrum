@@ -10,3 +10,7 @@ For any concerns, please contact:
 
 * [ralph@houseofspectrum.com](ralph@houseofspectrum.com) 
 * [ralph@spectrumdubai.com](ralph@spectrumdubai.com) 
+
+## Features
+
+* Custom post type
